@@ -7,6 +7,11 @@ wilds of the western jungle? Well, worry not, because the Friendometer
 will help you calculate how much you can take before being caught in one
 by calculating the Friend energy!
 
+## Installation
+
+Simply head over to the **Releases** section on the GitHub repository
+and find the version you are looking for.
+
 ## Compiling
 
 For compiling, simply get your favorite C compiler (GCC and Clang should work)
@@ -32,4 +37,4 @@ Simply add any text as an argument to the executable:
 ./friendometer friend
 ```
 
-Then, watch the percentage you are given!
+Then, watch the percentage and comment you are given!
