@@ -100,7 +100,7 @@ int main(int argc, char *argv[]) {
     printf("FOR [[BIG SHOT!!!]]S LIKE YOU [[%0.1f%%]] IS [[On The House!!]]\n",
            friendPerc);
   else if (friendPerc >= 75.0)
-    printf("\033[1;34mAMAZING\033[1;0m %0.1f%%!! You truly outdid yourself "
+    printf("AMAZING %0.1f%%!! You truly outdid yourself "
            "there!\n",
            friendPerc);
   else if (friendPerc >= 70.0)
@@ -115,7 +115,7 @@ int main(int argc, char *argv[]) {
   else if (friendPerc >= 50.0)
     printf("%0.1f%% IS WORTH THE CHAOS!\n", friendPerc);
   else if (friendPerc >= 40.0)
-    printf("This \033[1;33m%0.1f%%\033[1;0m is \033[1;33mPissing\033[1;0m me "
+    printf("This %0.1f%% is Pissing me "
            "off...\n",
            friendPerc);
   else if (friendPerc >= 20.0)
